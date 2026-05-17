@@ -174,7 +174,7 @@ chocolate-sales-bi-dashboard/
 
 ---
 
-## 📂 Additional Files
+# 📂 Additional Files
 
 - 📊 Power BI Dashboard (.pbix)  
   https://drive.google.com/file/d/1f83zxIRthoeWtz1Q5xI02YlcQAT69Sah/view?usp=sharing
